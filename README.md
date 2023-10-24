@@ -14,7 +14,7 @@ O sistema de cotação de produtos é um sistema que permite a cotação de prod
 
 ### Instruções para execução
 
-Para executar é necessario ter o java e maven instalado na maquina.
+Para executar é necessário ter o java e maven instalado na máquina.
 
 Compilar o projeto com o maven no comando abaixo:
 
@@ -30,8 +30,8 @@ java -jar target/purchase-system-1.0-SNAPSHOT.jar
 
 ### Diagrama de classes
 
-![Diagrama de classes]()
+![Diagrama de classes](https://github.com/kaikwb/purchase-system/blob/master/class_diagrams.png)
 
 ### Diagrama do banco de dados
 
-![Diagrama do banco de dados]()
+![Diagrama do banco de dados](https://github.com/kaikwb/purchase-system/blob/master/db_schema.png)
